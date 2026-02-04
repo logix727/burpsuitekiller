@@ -1,4 +1,4 @@
-# 🦅 (BurpKiller Pro)
+# 🦅 BurpKiller Pro
 
 An automated tool for **API Reconnaissance** and **Vulnerability Assessment**. Designed for SOC analysts and penetration testers to quickly identify PII leaks, BOLA vulnerabilities, and security misconfigurations.
 
@@ -32,4 +32,5 @@ Open a Pull Request! We love community tools.
 
 ## 📜 License
 MIT
+
 
